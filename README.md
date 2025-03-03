@@ -43,7 +43,6 @@ The results of various experiments, including accuracy reports and confusion mat
 ```
 .
 ├── data/                 # Sample text files used for training/testing
-├── models/               # Saved trained model files
 ├── results/              # Classification reports and confusion matrices
 ├── Naive_Bayes.ipynb     # Jupyter Notebook with code implementation
 ├── text_utilities.py     # Helper functions for text preprocessing
