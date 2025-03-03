@@ -16,8 +16,8 @@ The goal of this project is to classify text excerpts by author using **Naive Ba
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/muditbaid/Context-Aware-Toxicity-Benchmarking.git
-cd Context-Aware-Toxicity-Benchmarking
+git clone https://github.com/muditbaid/TextSage-Naive-Bayes-Author-Detection.git
+cd TextSage-Naive-Bayes-Author-Detection
 ```
 
 ### 2️⃣ Install Dependencies
